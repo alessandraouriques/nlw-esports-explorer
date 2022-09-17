@@ -12,7 +12,7 @@
 
 
 
-## 🔨 Tecnologías
+## 🔨 Tecnologias
 
     -HTML
     -CSS
