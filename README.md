@@ -14,8 +14,8 @@
 
 ## 🔨 Tecnologias
 
-    -HTML
-    -CSS
-    -Git e Github
+    - HTML
+    - CSS
+    - Git e Github
 
 
